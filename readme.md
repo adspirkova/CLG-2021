@@ -8,6 +8,9 @@ Vítejte v repozitáři projektu Code Like a Girl Online 2021.
 Ke kterékoliv přednášce se můžete kdykoliv vrátit:
 #### Úvod a Instalace
 #### GitHub
+- [Power Point](docs/presentation/github/GitHub.pptx)
+- [PDF](docs/presentation/github/code-like-a-girl-github.pdf)
+
 #### HTML
 #### CSS
 #### Javascript
