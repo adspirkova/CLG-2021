@@ -9,6 +9,8 @@ Přidej se do skupiny [CZ | Code Like a Girl](https://www.facebook.com/groups/63
 
 Ke kterékoliv přednášce se můžete kdykoliv vrátit:
 #### Úvod a Instalace
+- [PDF](docs/presentation/instalace/Instalace.pdf) 
+
 #### GitHub
 - [Power Point](docs/presentation/github/GitHub.pptx)
 - [PDF](docs/presentation/github/code-like-a-girl-github.pdf)
