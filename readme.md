@@ -17,7 +17,7 @@ Ke kterékoliv přednášce se můžete kdykoliv vrátit:
 
 #### HTML
 #### CSS
-#### Javascript
+#### UX 
 
 ##  Vaše pískoviště a projekt
 
