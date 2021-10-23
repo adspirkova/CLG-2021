@@ -17,6 +17,8 @@ Ke kterékoliv přednášce se můžete kdykoliv vrátit:
 
 #### HTML
 #### CSS
+- [Power Point](docs/presentation/css/CSS_new-2.pptx)
+- [PDF](docs/presentation/css/CSS_new-2.pdf)
 #### UX 
 
 ##  Vaše pískoviště a projekt
