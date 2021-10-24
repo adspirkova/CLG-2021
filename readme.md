@@ -16,6 +16,8 @@ Ke kterékoliv přednášce se můžete kdykoliv vrátit:
 - [PDF](docs/presentation/github/code-like-a-girl-github.pdf)
 
 #### HTML
+- [Power Point](docs/presentation/html/HTML.pptx)
+- [PDF](docs/presentation/html/HTML.pdf)
 #### CSS
 - [Power Point](docs/presentation/css/CSS_new-2.pptx)
 - [PDF](docs/presentation/css/CSS_new-2.pdf)
