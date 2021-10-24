@@ -23,7 +23,7 @@ Ke kterékoliv přednášce se můžete kdykoliv vrátit:
 
 ##  Vaše pískoviště a projekt
 
-Připravili jsme pro vás pískoviště pro jednotlivá témata. Každé pískoviště obsahuje páš souborů které si můžete libovolně měnit a hrou se naučit dané téma bez toho aby jste se museli zdržovat kopírovaáním souborů.
+Připravili jsme pro vás pískoviště pro jednotlivá témata. Každé pískoviště obsahuje páš souborů které si můžete libovolně měnit a hrou se naučit dané téma bez toho aby jste se museli zdržovat kopírováním souborů.
 #### HTML
 #### CSS
 - [01 - propojení CSS a HTML](sandbox/css-01/index.html)
